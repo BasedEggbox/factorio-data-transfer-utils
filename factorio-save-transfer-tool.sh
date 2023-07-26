@@ -15,5 +15,5 @@ read OUTPUT
   then
 	cp -rv /home/"$USER"/Games/factorio/saves/*.zip .factorio/saves
 else
-	printf "ERROR\nFactorio version doesn't exist!!!"
+	printf "ERROR\nFactorio can't be found or doesn't exist!!!"
 fi
