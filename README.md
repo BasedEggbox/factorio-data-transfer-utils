@@ -1,6 +1,6 @@
 # factorio-data-transfer-utils
 Transfer tools for Factorio saves and blueprints.
-These bash scripts were made to automate save and blueprint transfers between the "Steam" and "DRM-Free".
+These bash scripts were made to automate save and blueprint transfers between the "Steam" and "DRM-Free" Distributions of the game.
 <h3>
 Is there going to be a Windows version?
 </h3>
