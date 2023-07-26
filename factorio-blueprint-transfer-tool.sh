@@ -15,5 +15,5 @@ elif [ $OUTPUT == "steam" ]
 then
 	cp -v /home/"$USER"/Games/factorio/blueprint-storage.dat /home/uncle/.factorio
 else
-	printf "ERROR\nFactorio version doesn't Exist!!!"
+	printf "ERROR\nFactorio Distribution can't be found or doesn't Exist!!!"
 fi
