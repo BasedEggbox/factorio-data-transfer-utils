@@ -12,4 +12,4 @@ Q "Do you plan on supporting the GOG version at some point?"
 A: Yeah, I do plan to one day.
 
 
-I also made this because i'm to lazy to do it manually.
+I also made this because i'm to lazy to do it manually through a gui file manager.
