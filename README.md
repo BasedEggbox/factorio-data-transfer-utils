@@ -4,12 +4,12 @@ These bash scripts were made to automate save and blueprint transfers between th
 <h3>
 Q "Is there going to be a Windows version?"
 </h3>
-<h3>A:</h3>I'll try and make one when I'm a bit more expereienced with bash, since i am a bit of a newbie at it.
+A: I'll try and make one when I'm a bit more expereienced with bash, since i am a bit of a newbie at it.
 <h3>
 Q "Do you plan on supporting the GOG version at some point?"
 </h3>
 
-<h3>A:</h3> Yeah, I do plan to one day.
+A: Yeah, I do plan to one day.
 
 
 I also made this because i'm to lazy to do it manually.
